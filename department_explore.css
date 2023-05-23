@@ -1,0 +1,21 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.bg-set{
+    width: 100%;
+ }
+ 
+ .info-departs #para-departs{
+     margin-left: 12%;
+     margin-right: 12%;
+     text-align: justify;
+     padding: 20px;
+     font-weight: 300;
+     word-spacing: 2px;
+     align-items: center;
+     font-family: 'Poppins', sans-serif;;
+ }
+ 
+ 

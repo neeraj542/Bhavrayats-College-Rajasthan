@@ -1,0 +1,14 @@
+#gallary4{
+    
+    background-color: rgb(255, 254, 254);
+    font-family: inherit;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+footer{
+    margin-top: 100%;
+    /* margin-top: 0%; */
+}

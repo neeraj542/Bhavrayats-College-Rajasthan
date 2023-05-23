@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+.box-zone {
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid rgb(45, 17, 0);
+    padding: 30px;
+}
+
+.box-zone img {
+    width: 500px;
+    border-radius: 10px;
+    /* align-items: center; */
+
+}
+
+.head {
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: 'Comfortaa', cursive;
+    color: rgb(2, 0, 36);
+    text-align: center;
+}
+
+.para-box {
+    font-size: medium;
+    font-family: 'Comfortaa', cursive;
+}

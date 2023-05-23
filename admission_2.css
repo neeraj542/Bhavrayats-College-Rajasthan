@@ -1,0 +1,27 @@
+#admission2{
+    
+    background-color: rgb(255, 254, 254);
+    font-family: inherit;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+.admissionBox{
+    border: 2px solid orangered;
+    margin: 15%;
+    width: 50%;
+}
+
+.admissionBox #degreeBox{
+    border-radius: 3px;
+    color: orangered;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 40%;
+}
+
+footer{
+    margin-top: 100%;
+}

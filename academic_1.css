@@ -1,0 +1,17 @@
+#academic1{
+    
+    background-color: rgb(255, 254, 254);
+    font-family: inherit;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+.admins{
+    text-align: center;
+    /* margin-bottom: 50px; */
+}
+footer{
+    margin-top: 100%;
+}
